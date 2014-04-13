@@ -1,0 +1,28 @@
+git log # only show commit log 
+
+git show # commit logs
+
+git diff #
+
+tree folder # linux
+
+xxx.git # primitive depositary，clone from github
+
+.git # cloned to local disk
+
+gitk --all
+
+
+git push --al # push all branches to default origin depositary(default/config)
+
+git branch -r # show remote branches
+
+
+git clone 仓库路径/ -b cat分支 放到新建文件夹vvn_cat #
+
+git format-patch 自己的工作前的commit号（git log）#从新到老每一次修改生成一个patch文件
+git format-patch -n（最近的n次修改）
+
+git am patch名 #增加现成的patch
+
+git reset --hard commitID #只保留commitID以及之前的修改

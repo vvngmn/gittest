@@ -1,16 +1,25 @@
+
 git log # only show commit log 
 
 git show # commit logs
 
+
+git show # ¿´commitÖ®ºóµÄ½á¹û 
+
 git diff #
 
 tree folder # linux
 
+
 xxx.git # primitive depositaryï¼Œclone from github
 
-.git # cloned to local disk
+xxx.git # cloned to local disk
+
+
+.git # ±¾µØ¿ËÂ¡ÏÂÀ´µÄ²Ö¿â
 
 gitk --all
+
 
 
 git push --al # push all branches to default origin depositary(default/config)
@@ -20,9 +29,25 @@ git branch -r # show remote branches
 
 git clone ä»“åº“è·¯å¾„/ -b catåˆ†æ”¯ æ”¾åˆ°æ–°å»ºæ–‡ä»¶å¤¹vvn_cat #
 
-git format-patch è‡ªå·±çš„å·¥ä½œå‰çš„commitå·ï¼ˆgit logï¼‰#ä»æ–°åˆ°è€æ¯ä¸€æ¬¡ä¿®æ”¹ç”Ÿæˆä¸€ä¸ªpatchæ–‡ä»¶
+git format-patch è‡ªå·±çš„å·¥ä½œå‰çš„commitå·ï¼ˆgit logï¼?ä»æ–°åˆ°è€æ¯ä¸€æ¬¡ä¿®æ”¹ç”Ÿæˆä¸€ä¸ªpatchæ–‡ä»¶
 git format-patch -nï¼ˆæœ€è¿‘çš„næ¬¡ä¿®æ”¹ï¼‰
 
-git am patchå #å¢åŠ ç°æˆçš„patch
+git am patchå?#å¢åŠ ç°æˆçš„patch
 
-git reset --hard commitID #åªä¿ç•™commitIDä»¥åŠä¹‹å‰çš„ä¿®æ”¹
+git reset --hard commitID #åªä¿ç•™commitIDä»¥åŠä¹‹å‰çš„ä¿®æ”?=======
+git push --al # push all branches to default origin from donfig
+
+git branch -r # ´Ó±¾µØÏÔÊ¾Ô¶³ÌµÄ·ÖÖ§
+
+
+git clone ²Ö¿âÂ·¾¶/ -b cat·ÖÖ§ ·Åµ½ĞÂ½¨ÎÄ¼ş¼Ğvvn_cat #
+
+
+
+git format-patch ×Ô¼ºµÄ¹¤×÷Ç°µÄcommitºÅ£¨git log£©#´ÓĞÂµ½ÀÏÃ¿Ò»´ÎĞŞ¸ÄÉú³ÉÒ»¸öpatchÎÄ¼ş
+git format-patch -n£¨×î½üµÄn´ÎĞŞ¸Ä£©
+
+git am patchÃû #Ôö¼ÓÏÖ³ÉµÄpatch
+
+git reset --hard commitID #Ö»±£ÁôcommitIDÒÔ¼°Ö®Ç°µÄĞŞ¸Ä
+

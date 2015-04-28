@@ -1,0 +1,48 @@
+FUS-5788 : address book - list PAB 
+FUS-5789 : address book - create PAB 
+FUS-5790 : address book - delete PAB 
+FUS-5791 : address book - rename 
+FUS-5792 : contact - list ( Default PAB) 
+FUS-5793 : contact - create contact( Default PAB ) 
+FUS-5794 : contact - create duplicate contact( Default PAB ) 
+FUS-5795 : contact - deny duplicate contact( Default PAB ) 
+FUS-5796 : contact - del contact ( Default PAB ) 
+FUS-5797 : contact - update contact( Default PAB ) 
+FUS-5798 : contact - get contacts( Default PAB) 
+FUS-5799 : search contact - no mail,no result 
+FUS-5800 : search contact - contains filter str in one field(first name or work email) 
+FUS-5801 : search contact - contains fitler str in more than one field(first name and work email) 
+FUS-5802 : sort contact - by ASCII 
+FUS-5803 : autocomplete - add 
+FUS-5804 : autocomplete - del 
+FUS-5805 : autocomplete - collect - auto deny duplicate 
+FUS-5806 : autosuggest - setting off 
+FUS-5807 : autosuggest - setting on 
+FUS-5808 : autosuggest - filter rules 
+FUS-5809 : autosuggest - duplication check ( duplication in auto complete ) 
+FUS-5810 : autosuggest - duplication check ( duplication in both PAB and autocmplete ) 
+FUS-5811 : contact dup check - full fields diff, work mail same 
+FUS-5812 : contact dup check -full fields diff, first/ last same 
+FUS-5813 : contact dup check - full fields same, home mail diff 
+FUS-5814 : contact dup check - full fields same, work mail/home mail diff 
+FUS-5815 : contact dup check - full fields same, work mail/home mail/phone diff 
+FUS-5816 : contact dup check - full fields same,first name/ last name diff 
+FUS-5817 : contact dup check - full fields same,first name diff 
+FUS-5818 : contact dup check - full fields same 
+FUS-5819 : contact dup check - part fields - first/last/work mail same, home mail diff 
+FUS-5820 : contact dup check - part fields - first/last/home mail same,work mail diff 
+FUS-5821 : contact dup check - part fields - first/lastl same,home/work mail diff 
+FUS-5822 : contact dup check - part fields - first/lastl same,nick/middle diff 
+FUS-5823 : contact dup check - part fields - first/lastl same,phone diff 
+FUS-5824 : contact dup check - part fields - first same,last diff 
+FUS-5825 : merge - preview two duplicate contacts( User PAB ) 
+FUS-5826 : merge - preview two no duplicate contacts ( Default PAB) 
+FUS-5827 : export contact - export csv ( Default PAB ) 
+FUS-5828 : export contact - export vcard( User PAB ) 
+FUS-5829 : import contact - import vcard( Default PAB ) 
+FUS-5830 : import contact - import csv( User PAB ) 
+FUS-5831 : send contact as vcard 
+FUS-5832 : address book - get contact index from lastname (Default PAB ) 
+FUS-5833 : address book - get contact index from empty lastname (Default PAB ) 
+FUS-5834 : address book - get contact index from firstname (Default PAB ) 
+FUS-5835 : address book - get contact index from empty firstname (Default PAB ) 

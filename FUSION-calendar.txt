@@ -1,0 +1,72 @@
+FUS-5621 : Calendar - list 
+FUS-5622 : Calendar - create 
+FUS-5623 : Calendar - delete 
+FUS-5624 : Calendar - empty 
+FUS-5625 : Calendar - max quota 
+FUS-5626 : Calendar - update 
+FUS-5627 : Event - report 
+FUS-5628 : Event - create with one attendee - daily end by a date( default cal ) 
+FUS-5629 : Event - del one instance 
+FUS-5630 : Event - del all series 
+FUS-5631 : Event - empty all event( step by step ) 
+FUS-5632 : Event - empty all event 
+FUS-5633 : Event - create with all categories ( daily end by a date ) 
+FUS-5634 : Event - create daily recurrent ( end after a number times ) 
+FUS-5635 : Event - create weekly recurrent ( end after a number times ) 
+FUS-5636 : Event - create weekly recurrent ( end by a date ) 
+FUS-5637 : Event - create monthly recurrent on this day of Week( end by a date) 
+FUS-5638 : Event - create monthly recurrent on this day of Month( end after a few times ) 
+FUS-5639 : Event - create yearly recurrent ( end by a date ) 
+FUS-5640 : Event - create yearly recurrent ( end after a number times ) 
+FUS-5641 : Event - create event with reminder 
+FUS-5642 : Event - send/recieve invite mail 
+FUS-5643 : Event - preview invite mail 
+FUS-5644 : Event - dowload invite mail 
+FUS-5645 : Event - Attendee response event invation Yes 
+FUS-5646 : Event - Attendee response event invation Maybe 
+FUS-5647 : Event - Attendee response event invation No 
+FUS-5648 : Event - update event name( instance) 
+FUS-5649 : Event - update event name( all ) 
+FUS-5650 : Event - update event recurrency( all ) 
+FUS-5651 : Event - update event recurrency( instance) 
+FUS-5652 : Event - export ( default calendar ) 
+FUS-5653 : Event - import ( default calendar ) 
+FUS-5654 : Share calendar - view only( default calendar ) 
+FUS-5655 : Share calendar - read and write( default calendar ) 
+FUS-5656 : Share calendar - allow anyone subcribe( default calendar ) 
+FUS-5657 : Share calendar - view only , can not create new event( User Calendar ) 
+FUS-5658 : Subscribe calendar - view only , can list existed event( User Calendar ) 
+FUS-5659 : Subscribe calendar - read write, can add new event( User Calendar ) 
+FUS-5660 : Subscribe calendar - allow anyone view only, can not create new event( User Calendar ) 
+FUS-5661 : Task - list 
+FUS-5662 : Task - create 
+FUS-5663 : Task - create with all 3 status 
+FUS-5664 : Task - delete 
+FUS-5665 : Task - empty 
+FUS-5666 : Task - update alarm info 
+FUS-5667 : Task - update cancel alarm 
+FUS-5668 : Task - import( user calendar ) 
+FUS-5669 : Task - export( user calendar ) 
+FUS-5670 : Group - list group 
+FUS-5671 : Group - create 
+FUS-5672 : Group - delete 
+FUS-5673 : Group - delete group with tasks 
+FUS-5674 : Group - empty 
+FUS-5675 : Group - update 
+FUS-5676 : Group - share with tasks 
+FUS-5677 : Group - share with no tasks 
+FUS-5678 : Search - event by time range( proper time range ) 
+FUS-5679 : Search - event by time range( wrong time range ) 
+FUS-5680 : Search - event by time range/category 
+FUS-5681 : Search - event by time range/with or without reminder 
+FUS-5682 : Search - event by time range/calendar 
+FUS-5683 : Search - event by time range/content 
+FUS-5684 : Search - task by time range( proper time range ) 
+FUS-5685 : Search - task by time range( wrong time range, no alarm ) 
+FUS-5686 : Search - task by time range( wrong time range, with alarm ) 
+FUS-5687 : Search - task by time range/with or without reminder 
+FUS-5688 : Search - task by time range/calendar 
+FUS-5689 : Search - task by time range/content 
+FUS-5690 : Setting - Timezone - check time for create an event -- 
+FUS-5691 : Setting - Timezone - check reportEvent based on HK zone on send/received fields of all timezones -- 
+FUS-5692 : Setting - Timezone - check readEvent based on HK zone on send/received fields of all timezones -- 

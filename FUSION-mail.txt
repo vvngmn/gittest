@@ -1,0 +1,95 @@
+FUS-5467 : Mail - list 
+FUS-5468 : Mail - send To 
+FUS-5469 : Mail - send Cc/Bcc 
+FUS-5470 : Mail - simple search 
+FUS-5471 : Mail - flag 
+FUS-5472 : Mail - open mail 
+FUS-5473 : Mail - fetch 
+FUS-5474 : Mail - mark a message as spam and not spam 
+FUS-5475 : Mail - save draft 
+FUS-5476 : Mail - move on mail to Draft/Trash 
+FUS-5477 : Mail - move all messages to trash folder 
+FUS-5478 : Mail - delete 
+FUS-5479 : Mail - Send mail with attachments and preview the attachments 
+FUS-5480 : Mail - Send mail with big attachment 
+FUS-5481 : Mail - print preview 
+FUS-5482 : Mail - sort by subject 
+FUS-5483 : Mail - sort by date 
+FUS-5484 : Mail - check for new 
+FUS-5485 : Mail - receipt - send read receipt 
+FUS-5486 : Mail - receipt - ignore read receipt 
+FUS-5487 : Mail - receipt - no read receipt 
+FUS-5488 : Mail - receipt - no deliver receipt 
+FUS-5489 : Mail - receipt - send deliver receipt 
+FUS-5490 : Folder - create simple/nested folder 
+FUS-5491 : Folder - delete simple/nested folder 
+FUS-5492 : Folder - list folder 
+FUS-5493 : Folder - move folder 
+FUS-5494 : Folder - rename simple folder 
+FUS-5495 : Folder - rename sub folder 
+FUS-5496 : Folder - max folder nested depth 
+FUS-5497 : Mail - advanced search - search by folder 
+FUS-5498 : Mail - advanced search - search by subject 
+FUS-5499 : Mail - advanced search - search by mail body 
+FUS-5500 : Mail - advanced search - serach by sender 
+FUS-5501 : Mail - advanced search - search by recipient 
+FUS-5502 : Mail - advanced search - search by time range 
+FUS-5503 : Setting - General settings - empty trash folder when logout:true 
+FUS-5504 : Setting - General settings - empty trash folder when logout:false 
+FUS-5505 : Setting - General settings - auto go to next msg after del 
+FUS-5506 : Setting - General settings - auto read first mail 
+FUS-5507 : Setting - General settings - msg with rich text format 
+FUS-5508 : Setting - General settings - save outgoing msg:true 
+FUS-5509 : Setting - General settings - save outgoing msg:false 
+FUS-5510 : Setting - General settings - auto save receipt as contact:true-todo 
+FUS-5511 : Setting - General settings - auto save receipt as contact:false-todo 
+FUS-5512 : Setting - General settings - include original msg 
+FUS-5513 : Setting - General settings - indent prefix 
+FUS-5514 : Setting - General settings - AutoSaveDraftFlag 
+FUS-5515 : Setting - General settings - SaveToDraftsInterval 
+FUS-5516 : Setting - General settings - check for new interval 
+FUS-5517 : Setting - General settings - All Languages 
+FUS-5518 : Setting - General settings - Date Format 
+FUS-5519 : Setting - General settings - Time Format 
+FUS-5520 : Setting - General settings - TimeDisplayFormat 
+FUS-5521 : Setting - General settings - change password 
+FUS-5522 : Setting - General settings - use device zone 
+FUS-5523 : Setting - save profile 
+FUS-5524 : Setting - set auto suggest on/off 
+FUS-5525 : Setting - calendar and task settings - all and any attribute values 
+FUS-5526 : Setting - signature - Set and Del 
+FUS-5527 : Setting - signature - max number 
+FUS-5528 : Setting - signature - max size 
+FUS-5529 : Setting - signature - position 
+FUS-5530 : Setting - external account - test connection,add,list,delete 
+FUS-5531 : Setting - external account - check external account mail 
+FUS-5532 : Setting - external account - max count 
+FUS-5533 : Setting - enable Auto forward 
+FUS-5534 : Setting - diable Auto forward 
+FUS-5535 : Setting - disposable address - add 
+FUS-5536 : Setting - disposable address - list 
+FUS-5537 : Setting - disposable address - delete 
+FUS-5538 : Setting - disposable address - function 
+FUS-5539 : Setting - block sender - add, list and remove 
+FUS-5540 : Setting - block sender - add, function 
+FUS-5541 : Setting - safe sender - add, function -- 
+FUS-5542 : Setting - safe sender - add, list and remove 
+FUS-5543 : Setting - block image - set five different ways 
+FUS-5544 : Setting - block image - always allow image 
+FUS-5545 : Setting - block image - always block 
+FUS-5546 : Setting - block image - add a image allow sender 
+FUS-5547 : Setting - block image - always block with image allow sender 
+FUS-5548 : Setting - block image - add, list, delete allow sender 
+FUS-5549 : Setting - block image - allow images from contacts in address book 
+FUS-5550 : Setting - block image - allow except Spam 
+FUS-5551 : Setting - Timezone - set all timezones 
+FUS-5552 : Setting - Timezone - check time in msgHeaderlist response 
+FUS-5553 : Setting - Timezone - check time in msgFetch response 
+FUS-5554 : Setting - Timezone - check time in vmsgheaderlist res 
+FUS-5555 : Setting - Timezone - check time in saveMsgResp res 
+FUS-5556 : Setting - Timezone - ALL timezone - check time in msgHeaderlist res 
+FUS-5557 : Setting - Timezone - ALL timezone - check time in msgFetch res 
+FUS-5558 : Session - session valid,token expired 
+FUS-5559 : Session - session expired,token valid 
+FUS-5560 : Session - session valid, token valid 
+FUS-5561 : Session - session expired, token expired 
